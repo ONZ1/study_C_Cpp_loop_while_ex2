@@ -28,6 +28,6 @@ int main(void)
 		starloop1 += 2;
 	}
 
-	fgetc(stdin);
 	return 0;
+	fgetc(stdin);
 }
